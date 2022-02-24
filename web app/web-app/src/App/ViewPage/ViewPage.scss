@@ -1,0 +1,29 @@
+.container-main {
+  max-width: 50%;
+  width: 50%;
+  float: left;
+  height: 100vh;
+  overflow-x: scroll;
+  overflow-y: scroll;
+  background: #eff0f1;
+  overflow: scroll;
+}
+.datetime {
+  padding: 10px;
+}
+
+.sr-only {
+  padding: 10px;
+}
+
+.card-img-top {
+  object-fit: cover;
+}
+
+.btn-view-page {
+  margin: 3px;
+  background-color: #e99787;
+  text-decoration: none;
+  color: white;
+  border: #e99787;
+}

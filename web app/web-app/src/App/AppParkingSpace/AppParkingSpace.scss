@@ -1,0 +1,18 @@
+.btn-parking-space-submit {
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+  padding: 8px;
+  text-decoration: none;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+.grid-container-holder {
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
+
+.grid-child {
+  margin: 15px;
+}
