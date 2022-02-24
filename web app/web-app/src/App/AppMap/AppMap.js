@@ -43,7 +43,7 @@ export default function App(props) {
     <div style={{ width: '48vw', height: '100vh' }}>
       <MapWrapped
         {...props}
-        googleMapURL={`https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=geometry,drawing,places&key=AIzaSyBc9qYnP-7TMl61AJdV4tCjTlU1qDd6oiM`}
+        googleMapURL={`https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=geometry,drawing,places&key=YOURAPIKEY`}
         loadingElement={<div style={{ height: `100%` }} />}
         containerElement={<div style={{ height: `100%` }} />}
         mapElement={<div style={{ height: `100%` }} />}
